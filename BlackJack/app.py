@@ -116,7 +116,7 @@ class Game:
 
          print()
          print("*" * 30)
-         print(f"Game {game_number} of {games_to_play}")
+         print(f"Game {game_number} of {games_to_play}")  
          print("*" * 30)
          player_hand.display()
          dealer_hand.display()
